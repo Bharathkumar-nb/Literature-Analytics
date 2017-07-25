@@ -1,3 +1,4 @@
 # Logs and databases #
 ######################
 *.xlsx
+*.ipynb_checkpoints
